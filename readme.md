@@ -120,7 +120,7 @@ e.g. 2 + 4 * 2 = 10 and NOT 12
 
 This is not allowed:
 
-php calculator.php 4 + (5 + 2) * 0
+php index.php 4 + (5 + 2) * 0
 
 ### No eval()
 
